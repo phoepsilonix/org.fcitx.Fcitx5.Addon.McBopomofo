@@ -50,8 +50,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/openvanilla/fcitx5-mcbopomofo
-        tag: 2.9.5
-        commit: 2327e62b5754fa2e2b25feb343de169674a4bb40
+        tag: '3.0'
+        commit: 07dd922ddab159dd4c1865dee73f009aa3c8fdc1
         x-checker-data:
           type: git
           tag-pattern: ^([\d.]+)$
